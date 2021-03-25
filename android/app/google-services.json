@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047510800803",
+    "project_id": "guitarcool-e1729",
+    "storage_bucket": "guitarcool-e1729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047510800803:android:bd1133b894cef074f02216",
+        "android_client_info": {
+          "package_name": "com.example.guitarcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047510800803-mkbdi2jlf2e3vmsinlt6j57elageu5bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuQUfppkn4NOvdPZvPoYclFI2bHC5QZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047510800803-mkbdi2jlf2e3vmsinlt6j57elageu5bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
